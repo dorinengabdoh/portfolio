@@ -1,9 +1,9 @@
-*{
+* {
   padding: 0;
   margin: 0;
 }
 
-.links{
+.links {
   display: flex;
   position: fixed;
   width: 100%;
@@ -32,7 +32,7 @@ img {
 .mot {
   position: absolute;
   margin: 37rem auto 0 49rem;
-  padding: 10px 20px 10px 20px ;
+  padding: 10px 20px;
   border: solid 1px #4a454598;
   background-color:#0c0c0c;
   font-size: 20px;
@@ -54,8 +54,8 @@ p {
   color: #4a454598;
   justify-content: center;
   padding-left: 590px;
-  padding-right: 590px; 
-  padding-top: 30px; 
+  padding-right: 590px;
+  padding-top: 30px;
   padding-bottom: 20px;
 }
 
@@ -69,28 +69,27 @@ p {
 .container {
   display: flex;
   flex-direction: column;
-  
 }
 
-.texte { 
+.texte {
 text-align: center;
 }
 
 .all {
   display: flex;
   padding-right: 100px;
-  
 }
 
 h4 {
   padding-left: 500px;
-  align-items: center; 
+  align-items: center;
 }
+
 .para {
   padding-right: 150px;
 }
 
-.none{
+.none {
 margin-left: 400px;
 padding-top: 40px;
 padding-bottom: 40px;
@@ -105,7 +104,7 @@ h3 {
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
-  border-radius: 2px ;
+  border-radius: 2px;
   border: solid 1px #333326;
   height: 20px;
   margin-top: 10px;
@@ -113,7 +112,6 @@ h3 {
   margin-left: 300px;
   margin-right: 500px;
   background-color: #a08f79;
-  
 }
 
 .note {
@@ -121,7 +119,7 @@ h3 {
   justify-content: space-between;
   height: 60px;
   width: 99%;
-  background-color: rgb(91, 97, 97);
+  background-color: #5b6161;
   padding-top: 20px;
   padding-left: 10px;
   padding-right: 10px;
